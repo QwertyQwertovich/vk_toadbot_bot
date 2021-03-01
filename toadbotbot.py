@@ -1,10 +1,6 @@
-import sys
-sys.path.append("/home/gametopsss/.local/lib/python3.7/site-packages")
 import vk_api
 import time
 from random import randint
-st=0
-numberr=0
 conv = 1
 conv2 = 1
 conv = 2000000000 + conv
